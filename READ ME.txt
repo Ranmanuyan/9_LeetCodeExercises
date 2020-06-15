@@ -1,0 +1,22 @@
+READ ME.txt
+
+
+-----------------------------------------------------------------------
+0DeterFlowShopTar
+
+Wrote by Lei Liu 
+at 12, Jun, 2020 
+POLIMI 
+
+This is a flow shop scheduling with total tardiness minimization.
+Deterministic Version
+The Processing time is given and deterministic.
+Use python and Gurobi to solve it.
+The model is in the Research Notes Book
+				- DAILYIMPORTANTACCUMULATION  
+				- 1.3.5 Calculation of total tardiness in flow shop scheduling
+For Reference
+
+
+
+-----------------------------------------------------------------------
